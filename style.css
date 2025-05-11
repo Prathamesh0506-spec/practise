@@ -2,3 +2,9 @@
     height: 100px;
     width: 100px;
 }
+
+.box2{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
